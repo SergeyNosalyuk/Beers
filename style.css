@@ -1,0 +1,46 @@
+.products {
+    max-width: 1028px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  
+}
+
+.product_item {
+    width: 50%;
+    position: relative;
+    width: 50%;
+    height: 350px;
+    border: #DDDADA solid 1px;
+    border-radius: 7px;
+    box-shadow: 0 0 10px #dddada;
+    margin: 20px auto;
+
+}
+
+
+.img_product {
+    width: 100%;
+    text-align: center;
+}
+
+.content_product {
+    width: 100%;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+
+img.img_card {
+    width: 200px;
+    height: 200px
+}
+
+.nameing {
+    text-align: center;
+}
+
+.count_in_stock {
+    text-align: center;
+    margin: 20px;
+}
